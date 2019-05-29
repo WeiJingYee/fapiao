@@ -26,6 +26,7 @@ group_name = '6666'
 send_group_message(bot, group_name, '6666～～')
 invoice_data_list = []  # 存储识别后的发票信息的列表
 
+print('****************adding from yellowlmf****************')
 
 def check_info(field, bot, group_name):
     """
